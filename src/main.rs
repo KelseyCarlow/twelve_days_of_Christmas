@@ -58,12 +58,12 @@ fn main() {
 //
 // On the first day of Christmas
 // my true love sent to me:
-// A Partridge in a Pear Tree8
+// A Partridge in a Pear Tree
 //
 // On the second day of Christmas
 // my true love sent to me:
 // Two Turtle Doves
-// and a Partridge in a Pear Tree2
+// and a Partridge in a Pear Tree
 //
 // On the third day of Christmas
 // my true love sent to me:
@@ -76,7 +76,7 @@ fn main() {
 // Four Calling Birds
 // Three French Hens
 // Two Turtle Doves
-// and a Partridge in a Pear Tree1
+// and a Partridge in a Pear Tree
 //
 // On the fifth day of Christmas
 // my true love sent to me:
@@ -93,7 +93,7 @@ fn main() {
 // Four Calling Birds
 // Three French Hens
 // Two Turtle Doves
-// and a Partridge in a Pear Tree1
+// and a Partridge in a Pear Tree
 //
 // On the seventh day of Christmas
 // my true love sent to me:
@@ -103,7 +103,7 @@ fn main() {
 // Four Calling Birds
 // Three French Hens
 // Two Turtle Doves
-// and a Partridge in a Pear Tree1
+// and a Partridge in a Pear Tree
 //
 // On the eighth day of Christmas
 // my true love sent to me:
@@ -126,7 +126,7 @@ fn main() {
 // Four Calling Birds
 // Three French Hens
 // Two Turtle Doves
-// and a Partridge in a Pear Tree1
+// and a Partridge in a Pear Tree
 //
 // On the tenth day of Christmas
 // my true love sent to me:
@@ -139,7 +139,7 @@ fn main() {
 // Four Calling Birds
 // Three French Hens
 // Two Turtle Doves
-// and a Partridge in a Pear Tree1
+// and a Partridge in a Pear Tree
 //
 // On the eleventh day of Christmas
 // my true love sent to me:
@@ -153,7 +153,7 @@ fn main() {
 // Four Calling Birds
 // Three French Hens
 // Two Turtle Doves
-// and a Partridge in a Pear Tree1
+// and a Partridge in a Pear Tree
 //
 // On the twelfth day of Christmas
 // my true love sent to me:
